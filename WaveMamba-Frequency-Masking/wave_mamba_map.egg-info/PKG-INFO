@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: wave-mamba-map
+Version: 0.1.0
+Summary: Wavelet-enhanced image project
+Requires-Dist: addict
+Requires-Dist: future
+Requires-Dist: lmdb
+Requires-Dist: numpy
+Requires-Dist: opencv-python
+Requires-Dist: Pillow
+Requires-Dist: pyyaml
+Requires-Dist: requests
+Requires-Dist: scikit-image
+Requires-Dist: scipy
+Requires-Dist: tb-nightly
+Requires-Dist: tqdm
+Requires-Dist: yapf
+Requires-Dist: pyiqa
+Requires-Dist: causal_conv1d
+Requires-Dist: mamba_ssm
+Requires-Dist: torchmetrics

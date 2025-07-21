@@ -1,0 +1,7 @@
+Method,Statistic,PSNR,SSIM,LPIPS,CAMBI,BBAND,DBI
+debanded_with_deepDeband,Mean,34.584,0.964,0.071,0.057,0.464,0.122
+debanded_with_dip,Mean,34.364,0.957,0.093,1.728,0.82,0.034
+debanded_with_ffmpeg,Mean,31.383,0.941,0.11,0.955,0.632,0.035
+debanded_with_ldm,Mean,30.597,0.905,0.14,0.824,0.853,0.057
+debanded_with_ppp,Mean,32.432,0.927,0.188,3.619,1.23,0.005
+debanded_with_ww_deepDeband,Mean,35.005,0.967,0.066,0.055,0.484,0.104

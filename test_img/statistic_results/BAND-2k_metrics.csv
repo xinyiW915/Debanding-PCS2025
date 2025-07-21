@@ -1,0 +1,8 @@
+Method,Statistic,PSNR,SSIM,LPIPS,CAMBI,BBAND,DBI
+Banded_Input,Mean,37.344,0.964,0.1,0.513,0.564,0.431
+WaveMamba-dwt,Mean,38.963,0.977,0.062,0.702,0.551,0.158
+WaveMamba-map,Mean,38.505,0.976,0.066,0.691,0.476,0.082
+WaveMamba,Mean,38.926,0.977,0.063,0.647,0.519,0.148
+WaveMamba_wavelet,Mean,39.054,0.977,0.059,0.639,0.541,0.157
+deepDeband-f,Mean,33.13,0.897,0.116,0.561,0.198,0.225
+deepDeband-f_wavelet,Mean,33.263,0.898,0.115,0.557,0.198,0.227
