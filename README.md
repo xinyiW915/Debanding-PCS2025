@@ -87,13 +87,13 @@ See [`stat_metric.ipynb`](./src/stat_metric.ipynb) for a comprehensive performan
   </tr>
   <tr>
     <td align="center">
+      <img src="./test_img/visual_BAND-2k/WaveMamba-WWM/000001_210_U5S.png" width="200"><br>WaveMamba-WWM
+    </td>
+    <td align="center">
       <img src="./test_img/visual_BAND-2k/WaveMamba-DWT/000001_210_U5S.png" width="200"><br>WaveMamba-DWT
     </td>
     <td align="center">
       <img src="./test_img/visual_BAND-2k/WaveMamba-MAP/000001_210_U5S.png" width="200"><br>WaveMamba-MAP
-    </td>
-    <td align="center">
-      <img src="./test_img/visual_BAND-2k/WaveMamba-WWM/000001_210_U5S.png" width="200"><br>WaveMamba-WWM
     </td>
     <td align="center">
       <img src="./test_img/visual_BAND-2k/Pristine/000001_210_U5S.png" width="200"><br>Pristine
