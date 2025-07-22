@@ -1,6 +1,6 @@
 import pandas as pd
 
-# deband_name = "Banded_Input"
+deband_name = "Banded_Input"
 # WaveMamba + wavelet map (separate)
 # deband_name = "WaveMamba"
 # deband_name = "WaveMamba_wavelet"
@@ -8,7 +8,7 @@ import pandas as pd
 # deband_name = "WaveMamba-map"
 # deband_name = "WaveMamba-dwt"
 # deband_name = 'deepDeband-f'
-deband_name = 'deepDeband-f_wavelet'
+# deband_name = 'deepDeband-f_wavelet'
 
 # deband_name = "other"
 dataset_name = 'HD_images_dataset_dbi'
