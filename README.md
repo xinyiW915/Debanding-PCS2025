@@ -73,30 +73,30 @@ See [`stat_metric.ipynb`](./src/stat_metric.ipynb) for a comprehensive performan
 <table style="margin:auto;">
   <tr>
     <td align="center">
-      <img src="./test_img/visual_BAND-2k/Banded/000001_210_U5S.png" width="200"><br>Banded
+      <img src="./test_img/visual_BAND-2k/Banded/000001_223_U5S.png" width="200"><br>Banded
     </td>
     <td align="center">
-      <img src="./test_img/visual_BAND-2k/deepDeband-f/000001_210_U5S.png" width="200"><br>deepDeband-f
+      <img src="./test_img/visual_BAND-2k/deepDeband-f/000001_223_U5S.png" width="200"><br>deepDeband-f
     </td>
     <td align="center">
-      <img src="./test_img/visual_BAND-2k/deepDeband-f-WWM/000001_210_U5S.png" width="200"><br>deepDeband-f-WWM
+      <img src="./test_img/visual_BAND-2k/deepDeband-f-WWM/000001_223_U5S.png" width="200"><br>deepDeband-f-WWM
     </td>
     <td align="center">
-      <img src="./test_img/visual_BAND-2k/WaveMamba/000001_210_U5S.png" width="200"><br>WaveMamba
+      <img src="./test_img/visual_BAND-2k/WaveMamba/000001_223_U5S.png" width="200"><br>WaveMamba
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./test_img/visual_BAND-2k/WaveMamba-WWM/000001_210_U5S.png" width="200"><br>WaveMamba-WWM
+      <img src="./test_img/visual_BAND-2k/WaveMamba-WWM/000001_223_U5S.png" width="200"><br>WaveMamba-WWM
     </td>
     <td align="center">
-      <img src="./test_img/visual_BAND-2k/WaveMamba-DWT/000001_210_U5S.png" width="200"><br>WaveMamba-DWT
+      <img src="./test_img/visual_BAND-2k/WaveMamba-DWT/000001_223_U5S.png" width="200"><br>WaveMamba-DWT
     </td>
     <td align="center">
-      <img src="./test_img/visual_BAND-2k/WaveMamba-MAP/000001_210_U5S.png" width="200"><br>WaveMamba-MAP
+      <img src="./test_img/visual_BAND-2k/WaveMamba-MAP/000001_223_U5S.png" width="200"><br>WaveMamba-MAP
     </td>
     <td align="center">
-      <img src="./test_img/visual_BAND-2k/Pristine/000001_210_U5S.png" width="200"><br>Pristine
+      <img src="./test_img/visual_BAND-2k/Pristine/000001_223_U5S.png" width="200"><br>Pristine
     </td>
   </tr>
 </table>
