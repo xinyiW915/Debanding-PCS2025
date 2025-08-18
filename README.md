@@ -2,6 +2,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xinyiW915/Debanding-PCS2025) 
 [![GitHub stars](https://img.shields.io/github/stars/xinyiW915/Debanding-PCS2025?style=social)](https://github.com/xinyiW915/Debanding-PCS2025)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
+[![arXiv](https://img.shields.io/badge/arXiv-2508.11331-b31b1b.svg)](https://arxiv.org/abs/2508.11331)
+
 
 Official Code for the following paper:
 
