@@ -5,7 +5,7 @@
 
 Official Code for the following paper:
 
-**X. Wang, S.Tasmoc, N. Anantrasirichai, and A. Katsenou**. [Guiding WaveMamba with Frequency Maps for Image Debanding](https://arxiv.org/abs/)
+**X. Wang, S.Tasmoc, N. Anantrasirichai, and A. Katsenou**. [Guiding WaveMamba with Frequency Maps for Image Debanding](https://arxiv.org/abs/2508.11331)
 
 ---
 ## Performance
