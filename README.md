@@ -9,6 +9,8 @@ Official Code for the following paper:
 
 **X. Wang, S.Tasmoc, N. Anantrasirichai, and A. Katsenou**. [Guiding WaveMamba with Frequency Maps for Image Debanding](https://arxiv.org/abs/2508.11331)
 
+[Our paper](https://arxiv.org/abs/2508.11331) was accepted by the Picture Coding Symposium. ([PCS 2025](https://2025.picturecodingsymposium.org/)).
+
 ---
 ## Performance
 
