@@ -139,6 +139,7 @@ If you find this paper and the repo useful, please cite our paper 😊:
 @article{wang2025wavemamba-frequency-map,
   title={Guiding WaveMamba with Frequency Maps for Image Debanding},
   author={Wang, Xinyi and Tasmoc, Smaranda and Anantrasirichai, Nantheera and Katsenou, Angeliki},
+  booktitle={Picture Coding Symposium (PCS 2025)},
   year={2025},
 }
 ```
